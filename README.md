@@ -53,12 +53,3 @@ wikipedia-clone/
 │   └── ...                 # Other static assets
 ├── README.md               # You're reading it!
 ```
-
----
-
-## 👤 Author
-
-**Your Name**
-[GitHub](https://github.com/priyanshu-it) | [LinkedIn](https://linkedin.com/in/priyanshu-in)
-
----
