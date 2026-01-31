@@ -43,7 +43,7 @@ This project is a **Wikipedia Clone (Main Page only)** built using modern web de
 ```
 wikipedia-clone/
 │
-├── index.html              # Main Wikipedia homepage clone
+├── index.html              # Main Wikipedia homepage clone 
 ├── styles/
 │   └── style.css           # Custom CSS
 ├── scripts/
